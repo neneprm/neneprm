@@ -1,7 +1,9 @@
-# 🙇🏻‍♀️ Prima Sirinapapant (NeNe) ✨
-### 🎓 Sophomore year student in Software Engineering, KMITL
+# 🙇🏻‍♀️ Prima Sirinapapant ✨
+🎓 Sophomore year student in Software Engineering, KMITL
 
-<br>
+Hello, I am NeNe. I am interested in software development process. My goal is to become a skilled software engineer to fix problems for people with the best solutions and to create new programs to make people’s lives easier.
+
+Please feel free to check out my projects below!
 
 ## Projects 💻
 
@@ -30,7 +32,7 @@
 <img src="https://img.icons8.com/fluency/24/000000/android-studio--v3.png" title="Android Studio"/>
 </p>
 
-- My first group project in developing an Android appilcation using [_Andtroid SDK_](https://developer.android.com) that aims to assist food-related problems such as food browser and randomizer, dietary planning, and bill splitting.
+- My first group project in developing an Android appilcation using [_Android SDK_](https://developer.android.com) that aims to assist food-related problems such as food browser and randomizer, dietary planning, and bill splitting.
 
 ## Currently Working On ✏️
 
@@ -52,8 +54,9 @@
 
 - Learning and practicing new skills for web development.
 
-<br>
-
+## Contact Me 📮
+📧 Email: s.prima@hotmail.com \
+👤 LinkedIn: [Prima Sirinapapant](https://www.linkedin.com/in/prima-sirinapapant-479783218/)
 
 ## GitHub Stats 📊
 
