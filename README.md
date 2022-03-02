@@ -8,8 +8,10 @@
 
 🐣 [**Flappy Bird**](https://github.com/neneprm/FlappyBird)
 
+<p>
 <img src="https://img.icons8.com/color/24/000000/c-programming.png" title="C"/>
 <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_24x24.png?raw=true" title="raylib">
+</p>
 
 - My first individual game project inspired from an IOS game called FlappyBird and developed using [_raylib_](https://www.raylib.com) library.
 
