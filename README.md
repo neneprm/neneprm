@@ -45,7 +45,7 @@ Please feel free to check out my projects below!
 
 ## Currently Working On ✏️
 
-📱  [**Flutter**]
+📱  [**Flutter**](https://github.com/neneprm/RCash_app)
 
 🌐 [**Web Development**](https://github.com/neneprm/Web-Development-Bootcamp)
 
