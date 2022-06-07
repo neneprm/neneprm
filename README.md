@@ -34,8 +34,6 @@ Please feel free to check out my projects below!
 
 - My first group project in developing an Android appilcation using [_Android SDK_](https://developer.android.com) that aims to assist food-related problems such as food browser and randomizer, dietary planning, and bill splitting.
 
-## Currently Working On ✏️
-
 🛒 [**Nar-Raan**](https://github.com/TawanLekngam/SEP_Project)
 
 <p>
@@ -44,6 +42,10 @@ Please feel free to check out my projects below!
 </p>
 
 - Point of Sale(POS) system software developed using [_Qt_](https://www.qt.io) framework under [_PySide6_](https://pypi.org/project/PySide6/) module that aims to assist food and beverage services in cashier, order tracking, and financial report.
+
+## Currently Working On ✏️
+
+📱  [**Flutter**]
 
 🌐 [**Web Development**](https://github.com/neneprm/Web-Development-Bootcamp)
 
