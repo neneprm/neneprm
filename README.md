@@ -9,54 +9,33 @@ Please feel free to check out my projects below!
 
 ## Projects 💻
 
-🐣 [**Flappy Bird**](https://github.com/neneprm/FlappyBird)
-
+🌐 [**University Website (2022)**](https://github.com/neneprm/SE-WEBSITE)
 <p>
-<img src="https://img.icons8.com/color/24/000000/c-programming.png" title="C"/>
-<img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_24x24.png?raw=true" title="raylib">
+  <img src="https://img.icons8.com/color/256/nextjs.png" alt="NextJS" width="24" height="24"/>
+  <img src="https://img.icons8.com/office/256/react.png" alt="React" width="24" height="24"/>
+  <img src="https://img.icons8.com/color/256/tailwindcss.png" alt="TailwindCSS" width="24" height="24"/>
 </p>
 
-- My first individual game project inspired from an IOS game called FlappyBird and developed using [_raylib_](https://www.raylib.com) library.
+- Responsive Software Engineering, KMITL website using Next.js, React, and TailwindCSS.
+- Link to website: https://se-kmitl.vercel.app
 
-🧾 [**BillSplittr**](https://github.com/neneprm/BillSplittr)
-
-<p>
-<img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png" title="C++"/>
-<img src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" alt="Qt Logo" width="24" height="24" title="Qt"/>
-</p>
-
-- A bill splitting program developed under [_Qt_](https://www.qt.io) framework to help and manage people that share group expenses
-
-🍩 [**Gin-Arai-Dee**](https://github.com/deeckn/GIN-ARAI-DEE)
+🛒 [**Nar-Raan (2022)**](https://github.com/TawanLekngam/SEP_Project)
 
 <p>
-<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png" title="Java"/>
-<img src="https://img.icons8.com/fluency/24/000000/android-studio--v3.png" title="Android Studio"/>
-</p>
-
-- My first group project in developing an Android appilcation using [_Android SDK_](https://developer.android.com) that aims to assist food-related problems such as food browser and randomizer, dietary planning, and bill splitting.
-
-🛒 [**Nar-Raan**](https://github.com/TawanLekngam/SEP_Project)
-
-<p>
-<img src="https://img.icons8.com/color/24/000000/python--v1.png" title="Python"/>
-<img src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" alt="Qt Logo" width="24" height="24" title="Qt">
+<img src="https://img.icons8.com/color/256/python.png" alt="Python" width="24" height="24"/>
+<img src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg" alt="Qt" width="24" height="24">
 </p>
 
 - Point of Sale(POS) system software developed using [_Qt_](https://www.qt.io) framework under [_PySide6_](https://pypi.org/project/PySide6/) module that aims to assist food and beverage services in cashier, order tracking, and financial report.
 
-## Currently Working On ✏️
-
-📱  [**Flutter**](https://github.com/neneprm/RCash_app)
-
-🌐 [**Web Development**](https://github.com/neneprm/Web-Development-Bootcamp)
+🍩 [**Gin-Arai-Dee (2021)**](https://github.com/deeckn/GIN-ARAI-DEE)
 
 <p>
-<img src="https://img.icons8.com/color/24/000000/html-5--v1.png" title="HTML5"/>
-<img src="https://img.icons8.com/color/24/000000/css3.png" title="CSS3"/>
+<img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" alt="Java" width="24" height="24"/>
+<img src="https://img.icons8.com/color/256/android-studio--v3.png" alt="Android Studio" width="24" height="24"/>
 </p>
 
-- Learning and practicing new skills for web development.
+- Android appilcation using [_Android SDK_](https://developer.android.com) that aims to assist food-related problems such as food browser and randomizer, dietary planning, and bill splitting.
 
 ## Contact Me 📮
 📧 Email: s.prima@hotmail.com \
