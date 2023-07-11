@@ -1,7 +1,7 @@
 # 🙇🏻‍♀️ Prima Sirinapapant ✨
 🎓 Senior year student in Software Engineering, KMITL
 
-🎓 Frontend Developer Internship at Rabbit Cash Company Limited (Jun-Jul, 2022)
+🎓 Frontend Developer Internship at Rabbit Cash Company Limited (Jun-Jul, 2022) \
 🎓 Software Engineering Internship at Skooldio Company Limited (Jun-Jul, 2023)
 
 Hello, I am NeNe. I am interested in software development process. My goal is to become a skilled software engineer to fix problems for people with the best solutions and to create new programs to make people’s lives easier.
